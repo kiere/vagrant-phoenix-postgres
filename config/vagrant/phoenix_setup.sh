@@ -2,7 +2,7 @@
 
 echo "=== Begin Vagrant Provisioning using 'config/vagrant/phoenix_setup.sh'"
 
-PHOENIX_VERSION=0.17.0
+PHOENIX_VERSION=1.0.0
 
 # Install Git if not available
 # if [ -z `which elixir` ]; then
